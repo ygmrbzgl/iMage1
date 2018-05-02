@@ -1,4 +1,22 @@
 <changelog><commit>
+					<time>1525230205</time>
+					<sha1>f26eb159beafcec5b8dffc47ecdc1ed313d65c9e</sha1>
+					<author>Yagmur Bozoglu</author>
+					<branches>refs/heads/master</branches>
+					<msg>ADD: Added Files and created a .zip File</msg>
+				</commit><commit>
+					<time>1525229910</time>
+					<sha1>5384eaa558925dbd026071b074d342ff85d44384</sha1>
+					<author>Yagmur Bozoglu</author>
+					<branches>refs/heads/master</branches>
+					<msg>ADD: Added a patch</msg>
+				</commit><commit>
+					<time>1525229758</time>
+					<sha1>2f13aa91697a3e29f1c3e908bc6d03cef7d54583</sha1>
+					<author>Yagmur Bozoglu</author>
+					<branches>refs/heads/master</branches>
+					<msg>ADD: Added Files</msg>
+				</commit><commit>
 					<time>1525228752</time>
 					<sha1>9307c28629e65bab92deaf4e0f35064fe4769735</sha1>
 					<author>Yagmur Bozoglu</author>
