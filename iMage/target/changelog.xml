@@ -1,0 +1,25 @@
+<changelog><commit>
+					<time>1525228752</time>
+					<sha1>9307c28629e65bab92deaf4e0f35064fe4769735</sha1>
+					<author>Yagmur Bozoglu</author>
+					<branches>refs/heads/master</branches>
+					<msg>CREATE: Created a new Maven Modul</msg>
+				</commit><commit>
+					<time>1525227812</time>
+					<sha1>757b0a2227b6bd284c69a84f1869a028eb131fe3</sha1>
+					<author>Yagmur Bozoglu</author>
+					<branches>refs/heads/master</branches>
+					<msg>ADD: Added Data from src/assembly/src.xml</msg>
+				</commit><commit>
+					<time>1525227734</time>
+					<sha1>7e1ffa905e71cd27a2802fbe4f5ca432e0492fdc</sha1>
+					<author>Yagmur Bozoglu</author>
+					<branches>refs/heads/master</branches>
+					<msg>ADD: Added repository</msg>
+				</commit><commit>
+					<time>1525227606</time>
+					<sha1>716d581d83a39dcdc01be3669a4ba6d9cc7cccf7</sha1>
+					<author>Yagmur Bozoglu</author>
+					<branches>refs/heads/master</branches>
+					<msg>CREATE: Created a new Maven project</msg>
+				</commit></changelog>
