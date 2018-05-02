@@ -18,8 +18,23 @@
 		<module>jmjrst.main</module>
 	</modules>
 </project>
+	<build>
+		<plugins>
+			<plugin>
+				<artifactId>maven-jar-plugin</artifactId>
+				<version>3.0.2</version>
+        <inherited>true</inherited>
+        <configuration>
+          <archive>
+            <manifest>
+            <addClasspath>true</addClasspath>
+             <manifest>
+          <archive>
+        <configuration>
+      <plugin>
+	<build>
+<project>
 <?xml version="1.0"?>
-
 -<assembly xsi:schemaLocation="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2 http://maven.apache.org/xsd/assembly-1.1.2.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2">
 
 <id>src</id>
